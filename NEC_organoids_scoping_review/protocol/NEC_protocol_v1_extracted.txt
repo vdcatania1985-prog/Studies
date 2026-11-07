@@ -1,0 +1,669 @@
+<PARSED TEXT FOR PAGE: 1 / 11>
+                                                   NEC ORGANOIDS / SCOPING REVIEW PROTOCOL / CANDIDATE v1.0
+
+
+
+JBI-ALIGNED SCOPING REVIEW • PROTOCOL FOR ONGOING REVIEW
+
+Biological Origin of Intestinal Organoids in Experimental
+Models of Neonatal Necrotizing Enterocolitis
+Molecular Mechanisms and Reported Model Validation — A Scoping Review Protocol
+
+Version 1.0 candidate | 30 October 2026 | Prepared for public deposition on Zenodo
+
+ Metadata                                            Status
+
+
+                                                     Vincenzo Davide Catania, MD — Chirurgia
+                                                     Pediatrica, IRCCS Azienda Ospedaliero-
+                                                     Universitaria di Bologna, Bologna, Italia. ORCID
+ Authors / affiliations / ORCID
+                                                     not provided. Additional coauthors expected;
+                                                     names, order, affiliations and reviewer roles to
+                                                     be confirmed before publication.
+
+
+                                                     Vincenzo Davide Catania: no funding and no
+ Funding / conflicts of interest                     competing interests declared. Declarations from
+                                                     any additional authors pending.
+
+                                                     Scoping review using JBI methodology; final reporting
+ Review design                                       planned with PRISMA-ScR; searches reported with
+                                                     PRISMA-S.
+
+                                                     Not deposited; no DOI assigned. This is a protocol for a
+ Registration / DOI                                  review already in progress, NOT a prospective
+                                                     preregistration preceding initial searches.
+
+                                                     Preliminary bibliographic searches, deduplication,
+                                                     assistant-assisted title/abstract triage and selective article
+ Review stage at this version                        inspection already undertaken. Definitive dual-reviewer
+                                                     eligibility decisions and full experiment-level extraction
+                                                     are not complete.
+
+
+
+
+Structured abstract
+Background. Experimental neonatal necrotizing enterocolitis (NEC) has been studied using intestinal
+organoids derived from diverse biological sources. Source history (including clinical NEC diagnosis),
+intestinal sampling site and experimentally induced injury may affect interpretation of organoid
+models, while assays and validation approaches are heterogeneous.
+
+Objective. To map biological origin, NEC-model construction, organoid-specific molecular mechanisms
+and reported validation in primary studies of intestinal organoid models relevant to neonatal NEC.
+
+Methods. This scoping review will use a Population–Concept–Context framework, source-stratified
+eligibility and a nested study–source–experiment–readout extraction structure. The review has already
+
+
+                                                                     30 October 2026 • Pre-deposit candidate | Page 1
+<PARSED TEXT FOR PAGE: 2 / 11>
+                                                     NEC ORGANOIDS / SCOPING REVIEW PROTOCOL / CANDIDATE v1.0
+
+
+
+undergone preliminary bibliographic identification and assisted screening. Following public deposit of
+this protocol, remaining full-text eligibility decisions and independent verification will follow the
+procedures specified below. Human NEC-donor and experimentally induced non-NEC donor models
+will be distinguished; murine models will be stratified by donor disease history. Findings will be
+synthesized descriptively without pooled effect sizes or clinical efficacy claims.
+
+Transparency. Protocol timing, previous screening activities, amendments and any deviations will be
+reported. The deposit is not presented as preceding searches already performed.
+
+1. Scientific rationale and interpretive scope
+Intestinal organoids, enteroids, enterospheres, organoid-derived monolayers and organoid-based
+microfluidic systems are used to study NEC-related epithelial injury, barrier disruption, innate immune
+signaling, cell death and regeneration. They vary by donor species, developmental age, anatomical
+segment, NEC diagnosis, source lesion status, genetics, culture architecture and experimental insult.
+The central question is not whether a particular therapy is effective, but how these source
+characteristics relate to what has been modelled, measured and validated.
+
+The expression “relate to” is intentionally noncausal. Source effects will only be discussed as directly
+comparative findings where studies contain appropriate within-study contrasts; cross-study differences
+will be treated as descriptive associations potentially confounded by exposure, age, tissue site and
+platform.
+
+2. Review question, PCC and objectives
+Primary question: How does the biological origin of intestinal organoids relate to the experimental
+modeling of neonatal necrotizing enterocolitis, the molecular mechanisms investigated, and the extent
+of reported model validation?
+
+ PCC element                                           Definition
+
+
+                                                       Human, murine and other-species intestinal epithelial
+                                                       organoids or demonstrably organoid-derived
+ Population                                            monolayers/chips, including tissue-stem-cell and
+                                                       pluripotent-stem-cell derivation where NEC relevance is
+                                                       explicit.
+
+                                                       Biological source, NEC disease construct, molecular
+ Concept                                               targets/pathways assayed in organoids, functional
+                                                       readouts and reported validation.
+
+                                                       Primary experimental in vitro/ex vivo studies explicitly
+                                                       investigating neonatal NEC; parallel in vivo or patient-
+ Context
+                                                       tissue findings may be charted as validation context,
+                                                       never substituted for organoid measurements.
+
+
+
+
+                                                                      30 October 2026 • Pre-deposit candidate | Page 2
+<PARSED TEXT FOR PAGE: 3 / 11>
+                                                      NEC ORGANOIDS / SCOPING REVIEW PROTOCOL / CANDIDATE v1.0
+
+
+
+3. Prespecified primary and secondary mapping outcomes
+These are descriptive evidence-mapping outcomes rather than clinical endpoints or a priori treatment
+effect estimates. The three primary domains are co-primary descriptive objectives and are not tested as
+independent confirmatory hypotheses.
+
+Level                              Outcome domain                             Operational definition /
+                                                                              denominator
+
+
+                                                                              Number of unique study families,
+                                                                              distinct source arms and experiment
+                                                                              contrasts by human NEC-donor
+                                                                              lesion/distant tissue, non-NEC donor
+                                   Biological origin × NEC construct ×
+Primary P1                                                                    with induced injury, fetal/pediatric
+                                   platform
+                                                                              sources, murine healthy versus post-
+                                                                              NEC donors, other species and
+                                                                              technology. Denominators always
+                                                                              labeled.
+
+                                                                              Targets and pathways actually
+                                                                              measured or manipulated in
+                                                                              organoid-derived material, by
+                                   Organoid-specific molecular                RNA/protein/phosphorylation/proteo
+Primary P2
+                                   mechanisms                                 mics/functional assay, cellular
+                                                                              compartment, direction and study
+                                                                              family. Animal-only measurements
+                                                                              excluded from organoid column.
+
+                                                                              Presence/absence/not reported of
+                                                                              NEC-like phenotype, control
+                                                                              comparisons, unique
+                                   Reported model validation and              donors/lines/litters, independent
+Primary P3
+                                   biological independence                    replicates, orthogonal assays,
+                                                                              comparison with NEC patient tissue
+                                                                              and external triangulation. No
+                                                                              composite score.
+
+                                                                              NEC-inducing exposures, dose,
+                                                                              duration, oxygen,
+Secondary S1                       Experimental construction                  bacteria/microbiota, inflammatory
+                                                                              ligands, coculture and chip
+                                                                              conditions.
+
+                                                                              Barrier permeability, junction
+                                                                              integrity, organoid growth/budding,
+Secondary S2                       Functional epithelial phenotypes           apoptosis/necroptosis/ferroptosis,
+                                                                              proliferation, differentiation and
+                                                                              repair.
+
+
+
+
+                                                                         30 October 2026 • Pre-deposit candidate | Page 3
+<PARSED TEXT FOR PAGE: 4 / 11>
+                                                     NEC ORGANOIDS / SCOPING REVIEW PROTOCOL / CANDIDATE v1.0
+
+
+
+ Level                             Outcome domain                            Operational definition /
+                                                                             denominator
+
+
+                                                                             Inhibitors, agonists, gene
+                                                                             perturbations, milk components,
+                                                                             microbial interventions and
+ Secondary S3                      Mechanistic interventions
+                                                                             candidate therapies; describe ex vivo
+                                                                             readouts without claiming clinical
+                                                                             efficacy.
+
+                                                                             Completeness of methods, source
+                                                                             documentation, availability of data,
+ Secondary S4                      Reproducibility and evidence gaps
+                                                                             unresolved overlap and insufficient
+                                                                             independent donor replication.
+
+
+
+
+4. Eligibility criteria and evidence strata
+4.1 Mandatory platform criterion
+Original measurements must involve intestinal epithelial organoids, enteroids or enterospheres, a
+monolayer derived from such a culture, or an organ-on-chip system with an explicitly organoid-
+derived intestinal epithelial component. Conventional immortalized cell lines without an organoid
+arm, animal NEC experiments without an organoid arm, reviews, purely computational reanalyses and
+nonintestinal organoids alone are excluded.
+
+4.2 Evidence strata
+
+ Stratum                           Rule                                      Treatment
+
+
+                                   Original organoid experiment with
+                                   explicit NEC-directed aim and (a)
+                                   NEC-donor-derived organoids
+                                   examined for NEC-relevant
+                                   phenotype, (b) deliberate NEC-like        Primary source-stratified evidence
+ CORE                              challenge plus measured disease-          map; inclusion remains subject to
+                                   relevant phenotype, or (c) NEC-           full-text verification.
+                                   directed mechanistic perturbation
+                                   with organoid-specific readout.
+                                   Generic LPS injury without NEC
+                                   aim/phenotype is insufficient.
+
+                                   Immature/fetal or other intestinal
+                                   organoid work with an explicit NEC-
+                                   relevant research objective but no        Separate contextual synthesis; not
+ CONTEXTUAL
+                                   direct NEC disease construct. A           included in CORE denominators.
+                                   passing mention of NEC is
+                                   insufficient.
+
+                                   Technical organoid model/protocol         Methods register, linked to parent
+ METHODS                           reports without demonstrably              studies; no independent biological
+                                   independent biological data.              count.
+
+
+
+                                                                        30 October 2026 • Pre-deposit candidate | Page 4
+<PARSED TEXT FOR PAGE: 5 / 11>
+                                                        NEC ORGANOIDS / SCOPING REVIEW PROTOCOL / CANDIDATE v1.0
+
+
+
+ Stratum                             Rule                                      Treatment
+
+
+                                                                               Auxiliary register; identify full
+                                     Conference reports and preprints          publications and shared data; do not
+ ABSTRACT/PREPRINT
+                                     with candidate experiments.               automatically count as independent
+                                                                               peer-reviewed evidence.
+
+                                     Insufficient information to establish
+                                                                               Retrieve full text and adjudicate; no
+ UNCERTAIN                           source, organoid arm, NEC aim or
+                                                                               forced inclusion.
+                                     assay compartment.
+
+
+
+
+4.3 Source and disease-state variables
+
+ Axis                                                     Prespecified coding
+
+
+                                                          HD-NEC (documented NEC), HD-NONNEC, HD-UNKNOWN;
+ Human donor NEC status                                   clinical NEC stage, surgical indication and age recorded if
+                                                          reported.
+
+                                                          T-LESION, T-DISTANT/UNINVOLVED from NEC donor, T-
+ Human tissue site                                        OTHER non-NEC, T-UNKNOWN. Distant tissue from a NEC
+                                                          patient remains HD-NEC.
+
+                                                          E-BASELINE, E-INDUCED in non-NEC donor, E-
+ Experimental NEC construct                               RECHALLENGE in NEC donor, E-TREAT/PERTURBATION;
+                                                          multiple tags and order of exposures allowed.
+
+                                                          Fetal, preterm neonatal, term neonatal, older pediatric,
+                                                          adult, unknown; crypt/tissue-derived, fetal tissue, ESC-
+ Human developmental/derivation
+                                                          derived, iPSC-derived; source age and bowel segment
+                                                          separately recorded.
+
+                                                          M-HEALTHY before in vivo NEC induction; M-POSTNEC
+                                                          after experimental NEC; M-UNKNOWN; species, age,
+ Murine / other animals
+                                                          intestinal segment, genotype, strain and litter as distinct
+                                                          attributes.
+
+                                                          3D basal-out, 3D apical-out, organoid-derived 2D
+ Technology                                               monolayer, immune/vascular coculture, microfluidic chip,
+                                                          other.
+
+
+
+The origin of parallel rat/mouse experiments must not be assigned to human organoids. A genetic
+knockout is a property of the source model, not a mutually exclusive additional species category.
+
+4.4 Evidence type and restrictions
+No language, publication date, species, molecular target or treatment filters will be used for eligibility.
+Full peer-reviewed primary reports are the principal synthesis. Preprints and congress abstracts are
+identified in auxiliary strata; final publications and overlapping reports are linked by study family.
+Non-English texts will be assessed with translation when feasible. Full-text retrieval failures will be
+documented without converting abstract-only findings into verified organoid measurements.
+
+
+
+                                                                         30 October 2026 • Pre-deposit candidate | Page 5
+<PARSED TEXT FOR PAGE: 6 / 11>
+                                                     NEC ORGANOIDS / SCOPING REVIEW PROTOCOL / CANDIDATE v1.0
+
+
+
+5. Information sources and search chronology
+Sources comprise MEDLINE via PubMed, Embase via Embase.com, Scopus and Web of Science Core
+Collection. Main searches combine NEC and organoid/enteroid/chip terminology. Complementary
+searches combine NEC and intestinal epithelium/stem-cell/model terms to identify articles that do not
+name organoids in indexed fields. Backward and forward citation searching is planned. All source
+exports, dates, interface details and exact strings as actually run will be preserved; revised harmonized
+strings in Appendix A are not retrospectively represented as the strings used for prior exports.
+
+Review chronology: prior to this version, bibliographic searches and preliminary deduplication were
+performed and an assistant-assisted title/abstract classification produced a working register of 104
+candidate records, including 55 provisional CORE records. Several publications were examined
+selectively at full text. This stage is exploratory and does not constitute completed dual-reviewer full-
+text screening or definitive data extraction. The exact search dates and logs will be reconciled with the
+original exports; where unavailable, this limitation will be reported. The protocol deposit will therefore
+be explicitly identified as occurring AFTER initial search and screening activity.
+
+Further searches or updates will follow the frozen strategies with deviations and execution dates
+logged. The broad complementary stream may have lower precision; records from both streams will be
+deduplicated. Citation chasing will be documented with seed studies, platforms and dates. Google
+Scholar, if used, will be a bounded supplementary source (first 100 relevance-ranked results per
+prespecified query) with ranking limitations disclosed.
+
+6. Screening and adjudication
+Two independent human reviewers will reassess candidate records and subsequently retrieved reports
+against the frozen criteria. A pilot of at least 25 unique records will be independently screened;
+discordances will be discussed, and the screening manual clarified until a prespecified agreement
+threshold of at least 75% is reached before continuing. An independent third reviewer will resolve
+unresolved disputes. Previous assistant screening will not be represented as a substitute for this
+process.
+
+Full-text exclusions will be assigned a primary reason: no intestinal organoid-derived epithelial
+experiment; no NEC-directed question; no original biological data; duplicate/overlapping report
+without independent experiments; insufficient full-text evidence; other specified reason. Publication,
+report, study family, donor line, source arm and experiment will be separately tracked. Final PRISMA-
+ScR counts will not be derived from the provisional 55 CORE candidate total.
+
+7. Data charting and quality controls
+The extraction hierarchy will be: bibliographic record → study family → biological source/line →
+experiment/contrast → analyte/phenotype. Key source and molecular variables will be independently
+extracted by two human reviewers or verified by a second reviewer against the exact full-text figure,
+table and supplement. Unknown or unreported variables will be coded PENDING, NR, NA or
+UNRESOLVED, never silently imputed.
+
+
+
+
+                                                                    30 October 2026 • Pre-deposit candidate | Page 6
+<PARSED TEXT FOR PAGE: 7 / 11>
+                                                    NEC ORGANOIDS / SCOPING REVIEW PROTOCOL / CANDIDATE v1.0
+
+
+
+ Extraction unit                                     Required fields
+
+
+                                                     DOI, PMID, date, publication type, preprint/full-report
+ Study/report
+                                                     relationship, overlap, funding/conflicts.
+
+                                                     Species, clinical NEC status, lesional vs distant tissue,
+ Source arm                                          gestational/postnatal age, intestinal segment, n
+                                                     independent donors/lines/litters, genotype and derivation.
+
+                                                     Culture format, LPS/hypoxia/bacteria or other exposure,
+ Experiment                                          dose/time, comparator, assay compartment, number of
+                                                     independent cultures and technical replicates.
+
+                                                     Exact molecule and method (qPCR, WB, IF, RNA-seq,
+                                                     proteomics, viability, permeability), direction and
+ Molecular/functional readout
+                                                     quantified result if available; distinguish RNA from
+                                                     protein and organoid from in vivo.
+
+                                                     NEC-like phenotype, human tissue comparator,
+ Validation                                          rescue/perturbation, independent donor replication,
+                                                     orthogonal validation, data availability and missingness.
+
+                                                     DOI/source URL, figure/table/supplement locator, abstract
+ Claim trace
+                                                     vs full-text verification status and reviewer initials/date.
+
+
+
+
+8. Planned synthesis and reporting
+The CORE synthesis will be stratified by human NEC donor-derived, non-NEC human donor with
+induced injury, fetal/other human models, murine healthy or post-NEC donors, and other species. Co-
+primary outcomes P1–P3 will be tabulated in separate but linked matrices. A study with multiple
+biological source arms will count once in overall study totals but may appear in multiple source-
+specific tables, with overlap disclosed.
+
+Planned displays: PRISMA-ScR flow; source × NEC construct × platform matrix; organoid-specific
+target/pathway × assay × experimental perturbation matrix; descriptive validation/replication matrix;
+and an evidence-gap map. No pooled efficacy meta-analysis, GRADE treatment certainty, ranking of
+“best” organoid source or composite quality score is planned. Where direct head-to-head comparisons
+exist, they will be described within the study; cross-study comparisons will remain noncausal.
+
+9. Transparency, ethics, amendments and deposit
+This review synthesizes published or lawfully accessed reports and involves no new human or animal
+experiment. Publisher-controlled full-text PDFs will not be redistributed. Derived non-infringing data
+and search logs may be shared subject to applicable licenses. AI assistance in preliminary bibliographic
+triage and drafting will be disclosed and will not replace independent human eligibility decisions.
+
+Zenodo will provide a public, versioned archive and DOI, but not peer-review certification. This deposit
+will be a time-stamped PROTOCOL FOR AN ONGOING REVIEW, not a prospective registration before
+initial searches. Any subsequent substantive methodological changes will be dated and archived as
+amendments; the completed review will cite the exact deposited version DOI.
+
+
+                                                                     30 October 2026 • Pre-deposit candidate | Page 7
+<PARSED TEXT FOR PAGE: 8 / 11>
+                                                                      NEC ORGANOIDS / SCOPING REVIEW PROTOCOL / CANDIDATE v1.0
+
+
+
+Before public release, the named author and institutional team must confirm any additional authors,
+ORCID if available, individual contributions, reviewer assignments, corresponding author contact, and
+document license. Vincenzo Davide Catania, MD, has provided his name, affiliation and declarations of
+no funding and no conflicts of interest. An information specialist should independently review the
+harmonized search strings and verify Embase Emtree mappings. These are administrative/technical
+sign-off items.
+
+Appendix A. Harmonized search strategies for future updates
+These strategies document the intended search logic for subsequent reruns or updates. They have not
+been retrospectively verified as the literal strategies used in already completed searches. No new
+search was executed in preparing this protocol.
+
+A1 PubMed — main
+
+ ("Enterocolitis, Necrotizing"[Mesh] OR "necrotizing enterocolitis"[tiab] OR "necrotising enterocolitis"[tiab] OR (NEC[tiab] AND
+ (neonat*[tiab] OR prematur*[tiab] OR preterm[tiab] OR newborn*[tiab] OR infant*[tiab] OR intestin*[tiab]))) AND ("Organoids"[Mesh]
+ OR organoid*[tiab] OR enteroid*[tiab] OR enterosphere*[tiab] OR enterospheroid*[tiab] OR "organoid-derived"[tiab] OR "gut on a
+ chip"[tiab] OR "intestine on a chip"[tiab] OR (microfluidic*[tiab] AND (intestin*[tiab] OR gut[tiab])))
+
+
+
+
+A2 PubMed — complement
+
+ ("Enterocolitis, Necrotizing"[Mesh] OR "necrotizing enterocolitis"[tiab] OR "necrotising enterocolitis"[tiab] OR (NEC[tiab] AND
+ (neonat*[tiab] OR prematur*[tiab] OR preterm[tiab] OR newborn*[tiab] OR infant*[tiab] OR intestin*[tiab]))) AND ("intestinal
+ epithelium"[tiab] OR "intestinal epithelial"[tiab] OR "intestinal stem cell"[tiab] OR "intestinal regeneration"[tiab] OR "epithelial
+ barrier"[tiab] OR "intestinal model"[tiab] OR microfluidic*[tiab])
+
+
+
+
+A3 Embase.com — main
+
+ ('necrotizing enterocolitis'/exp OR 'necrotizing enterocolitis':ti,ab,kw OR 'necrotising enterocolitis':ti,ab,kw OR (nec:ti,ab,kw AND
+ (neonat*:ti,ab,kw OR prematur*:ti,ab,kw OR intestin*:ti,ab,kw))) AND (organoid*:ti,ab,kw OR enteroid*:ti,ab,kw OR
+ enterosphere*:ti,ab,kw OR 'organoid derived':ti,ab,kw OR 'gut on a chip':ti,ab,kw OR 'intestine on a chip':ti,ab,kw OR
+ (microfluidic*:ti,ab,kw AND intestin*:ti,ab,kw))
+
+
+
+
+A4 Embase.com — complement
+
+ ('necrotizing enterocolitis'/exp OR 'necrotizing enterocolitis':ti,ab,kw OR 'necrotising enterocolitis':ti,ab,kw OR (nec:ti,ab,kw AND
+ (neonat*:ti,ab,kw OR prematur*:ti,ab,kw OR intestin*:ti,ab,kw))) AND ('intestinal epithelium':ti,ab,kw OR 'intestinal stem cell':ti,ab,kw
+ OR 'intestinal regeneration':ti,ab,kw OR 'epithelial barrier':ti,ab,kw OR microfluidic*:ti,ab,kw)
+
+
+
+
+A5 Scopus — main
+
+ TITLE-ABS-KEY("necrotizing enterocolitis" OR "necrotising enterocolitis" OR (NEC AND (neonat* OR prematur* OR intestin*))) AND
+ TITLE-ABS-KEY(organoid* OR enteroid* OR enterosphere* OR "organoid derived" OR "gut on a chip" OR "intestine on a chip" OR
+ (microfluidic* AND intestin*))
+
+
+
+
+                                                                                          30 October 2026 • Pre-deposit candidate | Page 8
+<PARSED TEXT FOR PAGE: 9 / 11>
+                                                                    NEC ORGANOIDS / SCOPING REVIEW PROTOCOL / CANDIDATE v1.0
+
+
+
+A6 Scopus — complement
+
+ TITLE-ABS-KEY("necrotizing enterocolitis" OR "necrotising enterocolitis" OR (NEC AND (neonat* OR prematur* OR intestin*))) AND
+ TITLE-ABS-KEY("intestinal epithelium" OR "intestinal stem cell" OR "intestinal regeneration" OR "epithelial barrier" OR microfluidic*)
+
+
+
+
+A7 Web of Science — main
+
+ TS=("necrotizing enterocolitis" OR "necrotising enterocolitis" OR (NEC AND (neonat* OR prematur* OR intestin*))) AND TS=(organoid*
+ OR enteroid* OR enterosphere* OR "organoid derived" OR "gut on a chip" OR "intestine on a chip" OR (microfluidic* AND intestin*))
+
+
+
+
+A8 Web of Science — complement
+
+ TS=("necrotizing enterocolitis" OR "necrotising enterocolitis" OR (NEC AND (neonat* OR prematur* OR intestin*))) AND TS=("intestinal
+ epithelium" OR "intestinal stem cell" OR "intestinal regeneration" OR "epithelial barrier" OR microfluidic*)
+
+
+
+Technical status of Appendix A: The eight search strings have passed a static check of parentheses,
+quotation marks, Boolean structure and database-specific field tags against public vendor
+documentation. No new search was executed for this check. The Embase.com Emtree descriptor
+mapping and licensed interface parser remain to be confirmed by a named information specialist. The
+queries are a harmonized prospective strategy for subsequent search updates and do not overwrite the
+historical search strings used before deposit; original exports and timestamps must remain preserved.
+
+Appendix B. Source-specific adjudication examples
+ Example                                                              Protocol treatment
+
+
+ NEC infant, intestinal resection from lesion, baseline               CORE if NEC-directed; HD-NEC / T-LESION / E-BASELINE.
+ organoid                                                             Does not prove culture retains active NEC.
+
+                                                                      HD-NEC / T-DISTANT, never HD-NONNEC; may be baseline
+ NEC infant, macroscopically unaffected distant ileum
+                                                                      or rechallenged.
+
+ Non-NEC preterm infant tissue exposed to LPS and                     CORE only with explicit NEC model and disease-relevant
+ hypoxia                                                              phenotype; HD-NONNEC / E-INDUCED.
+
+ Fetal enterospheres with maturation response but no NEC
+                                                                      CONTEXTUAL only if NEC-specific aim, otherwise exclude.
+ phenotype
+
+ Adult mouse organoids with parallel neonatal rat NEC                 Source = adult mouse; rat findings are separate in vivo
+ model                                                                triangulation.
+
+ Mouse post-NEC organoids and genetically modified                    Code preharvest disease history and genotype
+ healthy mouse organoids                                              independently; do not merge as one source.
+
+ Protein measured in mouse intestine, ROS in human                    Only ROS is a human organoid outcome; protein belongs
+ organoid                                                             to mouse tissue compartment.
+
+                                                                      Link as one study family, preserve both reports, do not
+ Preprint and journal publication of same experiment
+                                                                      count as independent validations.
+
+
+
+
+                                                                                       30 October 2026 • Pre-deposit candidate | Page 9
+<PARSED TEXT FOR PAGE: 10 / 11>
+                                                          NEC ORGANOIDS / SCOPING REVIEW PROTOCOL / CANDIDATE v1.0
+
+
+
+Appendix C. Review stage and relationship to existing candidate register
+The internal register contains 104 provisionally relevant bibliographic records: 55 CORE candidates, 10
+conference abstracts, 30 CONTEXTUAL, 4 METHODS and 5 auxiliary records. The 55 CORE include 47
+records from initial screening and 8 recovered from reconsideration of 32 uncertain records. These are
+not final inclusion counts, independent studies or PRISMA-ScR flow totals. A separate internal
+alignment audit identifies possible preprint/full-article overlap and records with uncertain direct NEC
+modelling. These results were used to assess feasibility and procedural consistency; they do not alter
+eligibility criteria on the basis of observed findings.
+
+A small set of prior records has already been inspected at full-text level for methodological
+development. Definitive inclusion/exclusion decisions and extraction remain subject to the planned
+independent reviewer process. The date of this protocol must not be represented as preceding the prior
+bibliographic searches.
+
+Appendix D. Zenodo metadata and sign-off
+ Field                                                     Value or action
+
+
+                                                           Biological Origin of Intestinal Organoids in Experimental
+                                                           Models of Neonatal Necrotizing Enterocolitis: Molecular
+ Title
+                                                           Mechanisms and Reported Model Validation — A Scoping
+                                                           Review Protocol
+
+                                                           Use the structured abstract plus the complete
+                                                           review-stage statement in the companion Zenodo
+ Description                                               metadata sheet. This is an ongoing review with
+                                                           searches and assisted preliminary screening
+                                                           already conducted before deposit.
+
+
+                                                           Creator 1: Vincenzo Davide Catania, MD; given
+                                                           names: Vincenzo Davide; family name: Catania;
+                                                           affiliation: Chirurgia Pediatrica, IRCCS Azienda
+ Creators / affiliations / ORCID                           Ospedaliero-Universitaria di Bologna, Bologna,
+                                                           Italia. ORCID not provided. Additional coauthors
+                                                           anticipated but not yet identified; add before
+                                                           publication.
+
+
+                                                           Vincenzo Davide Catania declares no funding and
+                                                           no competing interests. Other authors must
+ Funding / conflicts / contributor roles
+                                                           provide their own declarations. Reviewer
+                                                           assignments and contributor roles pending.
+
+                                                           Publication / report or appropriate protocol type offered
+ Resource type
+                                                           by Zenodo.
+
+
+
+
+                                                                        30 October 2026 • Pre-deposit candidate | Page 10
+<PARSED TEXT FOR PAGE: 11 / 11>
+                                                    NEC ORGANOIDS / SCOPING REVIEW PROTOCOL / CANDIDATE v1.0
+
+
+
+Field                                                 Value or action
+
+
+                                                      Version 1.0 CANDIDATE (not deposited); final
+Version                                               public version after coauthor/ORCID/role
+                                                      confirmation and independent search review.
+
+                                                      Original protocol text: suggested CC BY 4.0 subject to
+License
+                                                      author approval.
+
+                                                      Not assigned. Cite version-specific DOI only after Zenodo
+DOI
+                                                      publication.
+
+                                                      Approved PDF + DOCX protocol; complete frozen
+                                                      8-string appendix; optionally an approved data-
+Suggested files                                       charting codebook. Do not upload copyright-
+                                                      restricted full texts or provisional screening
+                                                      records by default.
+
+
+
+
+Selected methodological references
+1. JBI Manual for Evidence Synthesis. Scoping Reviews chapter.
+   https://jbi-global.atlassian.net/wiki/spaces/MANUAL/pages/355862497
+2. Tricco AC et al. PRISMA Extension for Scoping Reviews (PRISMA-ScR). Ann Intern Med. 2018.
+   doi:10.7326/M18-0850.
+3. McGowan J et al. PRESS Peer Review of Electronic Search Strategies: 2015 Guideline Statement. J
+   Clin Epidemiol. 2016. doi:10.1016/j.jclinepi.2016.01.021.
+4. Rethlefsen ML et al. PRISMA-S: an extension to PRISMA for reporting literature searches. Syst Rev.
+   2021. doi:10.1186/s13643-020-01542-z.
+5. Zenodo: Creating a new upload and versioning. https://help.zenodo.org/docs/deposit/create-new-
+   upload/ ; https://zenodo.org/help/versioning
+
+
+
+
+                                                                     30 October 2026 • Pre-deposit candidate | Page 11
