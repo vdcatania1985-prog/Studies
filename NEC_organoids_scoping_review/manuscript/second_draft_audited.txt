@@ -1,0 +1,558 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intestinal Organoids in Experimental Neonatal Necrotizing Enterocolitis: Biological Origin, Reproduced Phenotypes, Mechanistic Evidence, Validation, and Translational Relevance - A Scoping Review
+Abstract
+Background: Intestinal organoid systems are increasingly used to model necrotizing enterocolitis (NEC), yet studies differ substantially in donor species, developmental age, clinical NEC history, intestinal sampling site, culture architecture, and experimental injury. These differences can alter the biological question addressed by the model and the strength of the inference that can be drawn. Methods: We conducted a JBI-aligned scoping review with planned PRISMA-ScR reporting. Primary experimental studies were charted at report, biological-source, experimental-contrast, and organoid-readout levels. The current primary synthesis includes full articles with an organoid-based NEC-directed experiment; preprints, conference abstracts, overlapping reports, uncertain records, and proposed exclusions were kept in separate strata. Evidence was synthesized narratively across five domains: model and sample origin, reproduced phenotypes, mechanistic evidence in organoid systems, responses to interventions, and validation/transferability. Results: Fifty-two documents were available and extracted (43 full articles, 3 preprints, and 6 conference abstracts). Forty-one full articles form the current primary synthesis. Twenty included a human organoid arm and 23 a murine arm, with two including both species. Crypt- or tissue-derived cultures were documented in 39/41 articles; 39 used a 3D format, 7 a 2D format, 1 a microfluidic chip, and 4 eukaryotic cocultures. A NEC-like challenge was documented in 29/41 articles. The most frequent organoid-specific domains were inflammation (21/41), stemness/growth/differentiation (21/41), cell death/redox (17/41), and barrier/junction biology (13/41). Direct functional barrier measurements were present in only 7/41 articles, including 6/20 with a human organoid arm. Among human models, donor provenance was heterogeneous and overlapping: 11 articles included active-NEC-derived material, 7 post-NEC material, and 14 non-NEC donor material subsequently used in experimental models. A numeric human donor count was reconstructible in 12/20 articles; in the remainder it was partial, discordant, uncertain, or not reported. Genetic perturbation, targeted pharmacology, and rescue experiments supported selected pathways, but mechanistic chains were frequently completed using animal, tissue, or cell-line data rather than the organoid arm alone. Conclusions: Intestinal organoids are an informative platform for reconstructing epithelial components of NEC injury and experimentally testing selected mechanisms, but “NEC organoid” is not a single interchangeable model. The strength and meaning of each conclusion depend on biological source, the endpoint actually measured in the organoid system, and replication across independent donors or lines. A source-explicit reporting framework is warranted to improve comparability, mechanistic interpretation, and translational relevance.
+Keywords: necrotizing enterocolitis; intestinal organoids; enteroids; neonatal intestine; prematurity; epithelial barrier; disease modeling; scoping review.
+1. Introduction
+Necrotizing enterocolitis (NEC) is a severe inflammatory and necrotizing intestinal disease of premature infants in which epithelial immaturity, microbial dysbiosis, exaggerated innate immune signaling, impaired restitution, and barrier failure interact in a highly context-dependent manner. Experimental progress has therefore depended on models capable of isolating epithelial mechanisms without losing the developmental and donor-specific features that shape the neonatal intestine. Intestinal organoids and enteroids offer this possibility by preserving multicellular epithelial architecture and, in tissue-derived systems, key characteristics of the donor epithelium while remaining experimentally accessible (Buonpane et al. 2022; Liebe et al. 2023; Lanik et al. 2023).
+However, the term “NEC organoid” is currently used for biologically different systems. Some studies culture tissue obtained from infants with active NEC or from intestine collected after recovery from NEC; others derive organoids from non-NEC neonatal tissue and impose an injury using lipopolysaccharide (LPS), hypoxia, dysbiotic bacteria, inflammatory mediators, or combinations of these exposures. Murine models add a further layer of heterogeneity because organoids may be derived from neonatal healthy donors, from animals exposed to experimental NEC in vivo, from older animals, or from genetically modified strains. In addition, organoids may be studied as 3D basal-out or apical-out structures, as organoid-derived 2D monolayers, in coculture with immune or stromal cells, or on microfluidic chips (Lanik et al. 2023; Heuer et al. 2025).
+These differences are not merely technical. They fundamentally shape the biological question that can be addressed and the inference that can be drawn. An organoid derived from active NEC tissue may capture disease-associated epithelial features present in donor-derived cultures, whereas a post-NEC organoid can be used to investigate whether altered epithelial responsiveness remains detectable after clinical recovery. In contrast, a non-NEC donor organoid subjected to a defined challenge is better suited to isolate the consequences of that challenge, while genetically defined murine organoids can test pathway dependence with greater experimental control. Treating all these systems as equivalent risks conflating disease history, developmental immaturity, experimental injury, and mechanistic perturbation.
+The objective of this scoping review was therefore to map how the biological origin of intestinal organoids relates to experimental NEC modeling, the epithelial phenotypes reproduced, the mechanisms directly tested in organoid-derived systems, the response to candidate interventions, and the extent of model validation and biological replication. Our analytic premise was that the principal contribution of the organoid literature is not to identify a single “best” NEC model, but to map a set of complementary source-specific models whose interpretation depends on linked factors: biological provenance, the experimental construct imposed on that source, the endpoint actually measured within the organoid compartment, and replication across biologically independent donors or lines.
+2. Methods
+2.1 Review design and protocol
+This review was designed as a scoping review following JBI methodological guidance and is intended for final reporting according to the PRISMA extension for scoping reviews (PRISMA-ScR) and PRISMA-S for literature-search reporting (Peters et al. 2020; Tricco et al. 2018; Rethlefsen et al. 2021; Pollock et al. 2023). A versioned protocol was developed for public archiving after the initial bibliographic searches and preliminary screening had already begun; accordingly, it is an ongoing-review protocol rather than a prospective preregistration that preceded all search activity.
+2.2 Review question and eligibility
+The review question was: How does the biological origin of intestinal organoids relate to experimental modeling of neonatal NEC, the molecular mechanisms investigated, and the extent of reported model validation? Eligibility was organized using a Population-Concept-Context framework. Eligible experimental systems required original measurements in intestinal epithelial organoids, enteroids, enterospheres, demonstrably organoid-derived monolayers, or organ-on-chip systems with an explicitly organoid-derived intestinal epithelial component. Parallel animal or patient-tissue findings were charted as validation context but were not substituted for organoid measurements.
+The CORE evidence stratum required an explicit NEC-directed aim together with at least one of the following: organoids derived from donors with documented NEC and examined for a NEC-relevant phenotype; deliberate NEC-like challenge followed by a disease-relevant organoid readout; or NEC-directed mechanistic perturbation with an organoid-specific readout. Preprints and conference abstracts were retained in auxiliary strata and linked to later publications or shared data where possible. Conventional cell-line studies without an organoid arm, animal NEC experiments without an organoid arm, reviews, purely computational studies, and nonintestinal organoids were excluded from the primary evidence map.
+2.3 Information sources and search strategy
+The prespecified information sources were MEDLINE via PubMed, Embase via Embase.com, Scopus, and the Web of Science Core Collection, supplemented by citation searching. Search logic combined NEC terminology with organoid, enteroid, enterosphere, organoid-derived monolayer, and intestine-on-chip terminology; complementary searches used broader intestinal epithelium, stem-cell, regeneration, barrier, and model terms to capture NEC-relevant studies that did not name organoids in indexed fields. No language, publication-date, species, molecular-target, or treatment restriction was prespecified.
+For the current draft, the reconstructed flow is based on the reconciled Embase, Scopus, and Web of Science exports. PubMed records are being reconciled separately with the unified register and are not added to the working flow count until that reconciliation is complete. Exact execution dates will be inserted into the final manuscript from the preserved search logs.
+2.4 Screening, report families, and data charting
+Bibliographic records were deduplicated and underwent preliminary title/abstract triage, followed by full-text retrieval and source-level extraction. Assistant-supported classification was used to organize the working register but was not treated as a substitute for the prespecified final human eligibility decisions. Earlier abstracts, preprints, later full publications, shared figure panels, and reused organoid lines were linked as report families to minimize double counting.
+The charting hierarchy was bibliographic report -> study/report family -> biological source or donor line -> experiment or contrast -> molecular or functional readout. Three co-primary domains were extracted: P1, biological origin x NEC construct x platform; P2, mechanisms and targets actually measured or manipulated in organoid-derived material; and P3, model validation and biological independence. Secondary fields captured the experimental injury construct, epithelial functional phenotypes, mechanistic interventions, reproducibility, and evidence gaps. Unknown or unresolved information was not imputed.
+2.5 Synthesis strategy
+The synthesis was descriptive and source-stratified. We did not pool treatment effects, rank interventions, or assign a composite model-validity score. Counts represent reports unless otherwise stated and therefore do not automatically represent independent studies, unique donor cohorts, or independent biological samples. Results were organized into five linked parts: (1) models and sample origin; (2) reproduced phenotypes; (3) mechanistic evidence in organoid systems; (4) responses to interventions; and (5) validation and transferability. Null findings and internally discordant results were retained because they affect the strength of mechanistic interpretation.
+3. Results
+3.1 Study selection and current evidence corpus
+The working register contained 387 imported records from the currently reconciled Embase, Scopus, and Web of Science exports. After removal of 196 duplicates, 191 records remained. Preliminary triage reduced the set to 111 candidates, and re-evaluation to 104. Fifty-five records entered the provisional CORE stream; two were subsequently reconciled as non-independent earlier reports (NEC-185 -> NEC-186 and NEC-190 -> NEC-189), leaving 53 unique CORE evidence records. Fifty-two documents were available and extracted: 43 full articles, 3 preprints, and 6 conference abstracts. One full text, NEC-090, remains unavailable. Forty-one full articles currently form the primary synthesis; six documents are retained as complementary evidence, three as earlier/non-independent reports, and two are held outside the primary denominator because one has a proposed exclusion and one remains uncertain. Figure 1 summarizes the current working flow.
+
+Figure 1. Working study-selection flow for the current manuscript draft. This is not yet the final PRISMA-ScR diagram because PubMed reconciliation, retrieval of NEC-090, and final independent reviewer adjudication remain pending.
+	Characteristic
+	Current count
+	Interpretation
+
+	Full articles in primary synthesis
+	41
+	Primary denominator for the narrative synthesis.
+
+	Articles with a human organoid arm
+	20
+	Two articles also contained a murine organoid arm.
+
+	Articles with a murine organoid arm
+	23
+	Two articles also contained a human organoid arm.
+
+	Crypt- or tissue-derived culture documented
+	39/41
+	No pluripotent-stem-cell-derived NEC organoid model was documented in the primary synthesis.
+
+	3D organoid format documented
+	39/41
+	Includes basal-out and apical-out configurations.
+
+	2D format documented
+	7/41
+	Includes organoid-derived monolayers and one primary-crypt 2D system.
+
+	Microfluidic chip
+	1/41
+	Human neonatal intestine-on-a-chip platform.
+
+	Eukaryotic coculture
+	4/41
+	Immune, stromal, or endothelial components.
+
+	NEC-like challenge documented
+	29/41
+	Challenges were heterogeneous and not interchangeable.
+
+	Functional barrier measurement
+	7/41
+	TEER and/or tracer permeability; 6/20 among articles with a human organoid arm.
+
+
+
+3.2 Models and sample origin
+The primary synthesis contained 18 articles with only human organoids, 21 with only murine organoids, and 2 with both species. The majority of platforms were derived from intestinal crypts or resected tissue (39/41). Thirty-nine articles documented a 3D organoid format, seven a 2D format, one a microfluidic chip, and four a eukaryotic coculture. No pluripotent-stem-cell-derived NEC organoid model was documented in the current primary synthesis. Twenty-nine articles applied an explicit NEC-like challenge to the organoid system, whereas others interrogated donor-derived disease states, genetic susceptibility, or baseline developmental biology without a standardized ex vivo NEC insult.
+
+Figure 2. Conceptual overview of the principal biological origins of intestinal organoids used in NEC research. Murine, non-NEC human, and NEC-derived human organoids represent complementary model classes that address different biological questions. The illustration is conceptual and does not imply equivalence among model classes.
+
+Figure 3. Descriptive model characteristics across the 41 full articles in the current primary synthesis. Categories are not mutually exclusive.
+Human donor provenance was especially heterogeneous. Among the 20 articles containing a human organoid arm, 11 included material derived from active NEC, 7 included post-NEC material, 14 included non-NEC donor material, and 1 included NEC-diagnosed tissue for which the disease phase was not clearly specified. These categories overlap because some articles compared multiple clinical source groups. Twelve of the 20 human-model articles used exclusively preterm-born donors, three included mixed maturity groups, one used term-born donors, and four did not report maturity sufficiently for classification.
+This provenance materially shaped the biological interpretation of the model. Buonpane et al. used crypt-derived 3D enteroids from premature infants without documented clinical NEC and imposed an LPS challenge, producing a controlled injury model with inflammatory, apoptotic, junctional, budding, and permeability readouts. In contrast, Snyder et al. compared enteroids from active NEC, recovered NEC, and non-NEC donors, thereby testing whether exaggerated epithelial inflammatory responsiveness remained detectable after clinical recovery rather than simply whether LPS can injure neonatal epithelium. Biouss et al. generated organoids from injured and relatively uninjured ileum from the same infants with NEC; importantly, the “uninjured” tissue remained NEC-derived and should not be reclassified as a healthy donor control. Lanik et al. combined neonatal enteroid-derived epithelium with endothelial cells in a microfluidic platform, whereas Heuer et al. added neutrophils to human NEC and control organoids to study epithelial-immune interactions (Buonpane et al. 2022; Snyder et al. 2024; Biouss et al. 2025; Lanik et al. 2023; Heuer et al. 2025).
+The murine literature was likewise developmentally heterogeneous. Thirteen of 23 articles with a murine organoid arm documented donors between postnatal day 0 and 21, five used donors aged at least four weeks, one included both young and adult donors, and four did not report donor age sufficiently. This matters because an experimental paper can be highly relevant to NEC mechanistically while its organoid donor is not neonatal. For example, some intervention studies used organoids derived from older mice while the NEC phenotype itself was tested in neonatal animals. Developmental age should therefore be treated as a model attribute rather than inferred from the disease label.
+Table 1. Source-explicit model classes and their principal interpretive use in NEC organoid research.
+	Model class
+	Typical source/construct
+	Best suited to address
+	Main interpretive caveat
+
+	Human disease-history models
+	Active-NEC or post-NEC surgical tissue, sometimes paired with distant/uninjured tissue
+	Disease-associated epithelial state; persistence of altered responsiveness after recovery
+	Clinical state, lesion status, age, and treatment history may be inseparable from donor-specific effects.
+
+	Human induced-injury models
+	Non-NEC neonatal tissue followed by LPS, hypoxia, dysbiotic bacteria, or combinations
+	Controlled response to a defined insult; intervention testing
+	NEC-like injury is an experimental construct and should not be equated with clinical NEC tissue.
+
+	Murine mechanistic models
+	Neonatal or older crypts; wild-type and genetically modified donors
+	Pathway necessity/sufficiency; genetic perturbation; controlled rescue experiments
+	Species and developmental-age differences may limit direct translation to preterm human epithelium.
+
+	Complex interface models
+	2D monolayers, chip systems, immune/stromal/endothelial cocultures
+	Barrier function, polarity, flow, cell-cell interaction, microbial exposure
+	Added complexity does not substitute for independent donor replication or explicit source reporting.
+
+
+
+
+Figure 4. Source-explicit analytic framework used for the narrative synthesis. The model source, experimental construction, measured organoid phenotype, mechanistic perturbation, and validation level are treated as linked but distinct layers of evidence.
+3.3 Phenotypes reproduced in organoid systems
+The most frequently mapped organoid-specific domains were inflammation (21/41 articles) and stemness/growth/differentiation (21/41), followed by cell death/redox biology (17/41), barrier/junction biology (13/41), mucus or goblet-cell biology (9/41), host-microbe interaction (9/41), and metabolism/transport or metabolite-related outcomes (7/41). These categories were non-exclusive and included characterization, intervention studies, and null findings; they should not be interpreted as counts of validated mechanisms or effective therapies.
+
+Figure 5. Organoid-specific biological domains represented in the 41 full articles. Categories are non-exclusive and reflect what was measured or experimentally manipulated in the organoid arm.
+Table 2. Representative biomarker and readout families assessed in NEC organoid studies. The examples are illustrative rather than exhaustive and refer to measurements reported in the organoid arm unless otherwise noted.
+	Biological domain
+	Representative markers/readouts
+	Primary biological interpretation
+	Important interpretive caveat
+
+	Inflammation / innate immune signaling
+	TLR4, MyD88, NF-kB-related signaling, TNF-alpha, IL-6, IL-8/CXCL8, IL-1beta, NLRP3
+	Recognition of microbial or damage signals and epithelial inflammatory activation
+	Cytokine or transcript changes indicate inflammatory response but do not by themselves demonstrate tissue injury or barrier failure.
+
+	Stemness / proliferation / regeneration
+	LGR5, OLFM4, ASCL2, Ki67, PCNA, Wnt/beta-catenin-related readouts
+	Stem/progenitor activity, proliferation, and regenerative programs
+	Organoid size, budding, Ki67, PCNA, and LGR5 are related but non-interchangeable readouts of regeneration.
+
+	Epithelial differentiation
+	MUC2, TFF3, CHGA, lysozyme/LYZ1, villin and lineage-associated transcripts
+	Goblet, enteroendocrine, Paneth, and absorptive-lineage maturation
+	Changes in lineage markers should not be interpreted as complete functional maturation unless supported by orthogonal assays.
+
+	Barrier integrity / cell junctions
+	ZO-1/TJP1, occludin, claudins, E-cadherin/CDH1; TEER; Lucifer Yellow or FITC-dextran permeability
+	Junctional organization and epithelial barrier function
+	Junctional-marker normalization is not equivalent to functional barrier recovery; TEER or tracer permeability provide direct functional evidence.
+
+	Apoptosis / epithelial injury
+	Cleaved caspase-3, TUNEL, PUMA/BBC3 and related apoptotic readouts
+	Programmed cell death and stress-induced epithelial injury
+	Marker-level apoptosis should be separated from other regulated cell-death programs and from nonspecific loss of organoid architecture.
+
+	Necroptosis
+	RIPK1, RIPK3/pRIPK3, MLKL-related readouts
+	RIPK-dependent regulated necrotic cell-death signaling
+	Pharmacologic rescue strengthens inference, but genetic evidence obtained only in animals should not be transferred to the organoid arm.
+
+	Parthanatos / DNA-damage response
+	PARP1-related signaling, ROS-associated DNA damage, parthanatos-associated readouts
+	PARP-dependent cell-death program linked to oxidative DNA damage
+	Complete causal chains may rely on complementary cell-line, tissue, or animal experiments.
+
+	Oxidative stress / ferroptosis-related biology
+	ROS, Fe2+, lipid peroxidation, GPX-family activity, glutathione/NADPH-related readouts
+	Oxidative injury, iron handling, antioxidant capacity, and ferroptosis-associated processes
+	Redox improvement or reduced lipid oxidation does not by itself prove reversal of ferroptotic cell death.
+
+	Host-microbe / epithelial sensing
+	TLR-related pathways, AHR, SIGIRR/TOLLIP/A20, responses to defined bacteria or microbial products
+	Epithelial sensing of microbial exposures and regulation of host-defense responses
+	Microbial source, dose, oxygen conditions, and donor background are integral parts of the experimental construct.
+
+
+
+Inflammatory phenotypes were commonly defined by cytokine transcription or secretion, TLR-related signaling, NF-kB-associated responses, inflammasome-related readouts, or responses to bacterial exposure. Human enteroids derived after NEC recovery showed an exaggerated inflammatory response to a subsequent ex vivo challenge in Snyder et al., whereas LPS-exposed premature human enteroids in Buonpane et al. increased TLR4 and TNF-alpha and developed parallel epithelial injury. These studies support the feasibility of modeling inflammatory responsiveness, but they address different questions: one emphasizes retained donor-associated susceptibility, the other a standardized insult in non-NEC tissue (Snyder et al. 2024; Buonpane et al. 2022).
+Growth and differentiation phenotypes were captured through organoid area, budding, proliferation markers, stem-cell programs, and lineage markers. Li et al. linked impaired Wnt/beta-catenin activity with defective intestinal regeneration during NEC, and several studies showed that human milk oligosaccharides or other interventions altered crypt-cell proliferation, maturation, or mucus-related outputs. Biouss et al. found that combined GLP-1/GLP-2 receptor agonism increased size, budding, Ki67, and MUC2-related maturation in organoids derived from injured and uninjured ileum from infants with NEC. However, size, budding, Ki67, LGR5, and lineage markers are not interchangeable measures of “regeneration”; their direction can differ across models and time points (Li et al. 2019a; Wang et al. 2019; Biouss et al. 2025).
+Cell-death and redox phenotypes spanned apoptosis, necroptosis, parthanatos, ferroptosis-related markers, pyroptosis-linked readouts, ROS, lipid peroxidation, iron handling, and antioxidant responses. Werts et al. provided organoid evidence consistent with RIPK-dependent necroptotic injury; Neal et al. and Afrazi et al. used crypt organoids to link TLR4 activation to PUMA-dependent apoptosis and ER-stress pathways; Xu et al. demonstrated a parthanatos-associated program in human organoids; and more recent studies mapped oxidative, iron, and lipid abnormalities relevant to ferroptosis (Werts et al. 2020; Neal et al. 2012; Afrazi et al. 2014; Xu et al. 2024; Golubkova et al. 2023; Gershner et al. 2025).
+Barrier biology illustrates why molecular markers must be separated from function. Only 7/41 articles directly measured barrier function by TEER and/or tracer permeability; six of these seven contained a human organoid arm. Buonpane et al. demonstrated increased Lucifer Yellow permeability after LPS in premature human enteroids, while Lanik et al. used a microfluidic system to evaluate barrier disruption under a more complex neonatal epithelial-endothelial context. Venkatraman et al. linked SIGIRR-TWIST1 signaling to barrier-related phenotypes, and Sami et al. showed improved FITC-dextran barrier function with urolithin A in a human NEC-in-a-Dish model (Buonpane et al. 2022; Lanik et al. 2023; Venkatraman et al. 2026; Sami et al. 2026). By contrast, changes in occludin, claudins, E-cadherin, or ZO-1 without a functional assay were treated as junctional markers rather than proof of restored permeability.
+3.4 Mechanistic evidence in organoid systems
+Mechanistic strength varied substantially. Eight primary-synthesis articles used a genetic perturbation of the epithelial source or donor, and one used a bacterial genetic perturbation. Thirteen tested targeted pharmacologic interventions in the organoid arm, while eight documented a targeted rescue or reversibility experiment and two additional reports were coded as uncertain for rescue. The central analytic distinction was whether the proposed pathway was merely associated with the phenotype, directly perturbed in organoids, or shown to be reversible after a pathway-specific intervention.
+Several studies reached a comparatively strong mechanistic level within organoid systems. Neal et al. showed that LPS-induced apoptosis and reduced proliferation in murine crypt organoids depended on TLR4 and PUMA. Afrazi et al. showed that LPS induced ER-stress and apoptotic phenotypes in murine enteroids, while genetic and pharmacologic experiments performed in complementary cellular and in vivo systems supported the broader TLR4-ER-stress causal pathway. Venkatraman et al. used SIGIRR-mutant systems and targeted TWIST1 inhibition/knockdown to support a SIGIRR-TWIST1 barrier mechanism. Lu et al. showed that protection by breast milk or the AHR ligand I3C was lost in Ahr-deficient enteroids, providing pathway-dependence evidence rather than a simple association. Li et al. used REGgamma-deficient organoids and NF-kB inhibition to connect REGgamma with epithelial injury and inflammatory signaling (Neal et al. 2012; Afrazi et al. 2014; Lu et al. 2021; Li et al. 2025; Venkatraman et al. 2026).
+Other studies support mechanistic hypotheses but with important compartment boundaries. Xu et al. identified PARP1-dependent parthanatos in a combined human tissue, animal, cell-line, and human organoid program; the organoid arm demonstrated ROS-associated DNA-damage and parthanatos-related changes, while the complete causal chain was supported by additional systems. Ferrostatin-1 reduced ferrous iron, ROS, and lipid oxidation in human NEC organoids, but the organoid experiment did not directly demonstrate rescue of ferroptotic cell death; the strongest conclusion is therefore suppression of a ferroptosis-associated redox phenotype rather than definitive reversal of ferroptosis in the organoid itself. Likewise, pathway enrichment or predicted transcription-factor activity was not treated as proof that the pathway was necessary for the observed phenotype (Xu et al. 2024; Wang et al. 2026).
+3.5 Responses to interventions
+Intervention studies were diverse and were not sufficiently homogeneous for pooled efficacy analysis. They included human milk, human milk oligosaccharides (HMOs), milk-derived extracellular vesicles, growth and trophic factors, stem-cell products, microbial or probiotic interventions, metabolites, anti-inflammatory drugs, and inhibitors of specific injury pathways. The interpretation therefore focused on whether an intervention altered a defined organoid endpoint and whether the experimental design supported a target-specific mechanism.
+Milk-related interventions were among the most recurrent. Human milk or milk-derived products reduced inflammatory or injury-associated readouts in several murine and human organoid systems. Gao et al. compared exosomes derived from different stages of human milk in LPS-injured murine organoids; Miyake et al. reported reduced inflammatory injury with raw and pasteurized human milk exosomes; Wu et al. and Wang et al. linked HMOs to mucin expression and epithelial proliferation; Zito et al. showed microbiota-independent epithelial regenerative effects of HMOs; and Lu et al. connected breast-milk protection to epithelial AHR signaling. Collectively, these studies report favorable changes in selected epithelial readouts, but they use different donor ages, challenge conditions, endpoints, and mechanistic levels and should not be treated as replicate estimates of a single protective effect (Gao et al. 2019; Wu et al. 2019; Wang et al. 2019; Miyake et al. 2020; Lu et al. 2021; Zito et al. 2024).
+Other interventions targeted epithelial repair or inflammatory signaling. HB-EGF and neuregulin-4 were associated with stem-cell or epithelial maintenance across organoid and complementary NEC-related systems; amniotic-fluid stem-cell products modified tight-junction and permeability phenotypes in association with ER-stress regulation; ST266 secretome and mesenchymal-stromal-cell-derived extracellular vesicles were studied as trophic or paracrine interventions; 5-aminosalicylic acid reduced the hyperinflammatory response in active and recovered NEC enteroids; and GLP agonists improved maturation-related outcomes in patient-derived organoids (Chen et al. 2012; McElroy et al. 2014; Li et al. 2021; Sodhi et al. 2022; Snyder et al. 2025; Hwang et al. 2025; Biouss et al. 2025).
+Small-molecule, microbial, and metabolic interventions further illustrate model dependence. Short-chain fatty acids enhanced anti-inflammatory regulatory programs in neonatal intestinal models; Bacteroides fragilis was linked to bile-acid metabolism and FXR-NLRP3 signaling; Ligilactobacillus salivarius YL20 was studied against Cronobacter-associated NEC-like injury; allicin was tested in organoids derived from older mice, highlighting developmental mismatch between the organoid donor and the neonatal disease context; ferrostatin-1 modified redox and lipid-peroxidation endpoints; and urolithin A reduced inflammatory responses and improved tracer permeability in a human neonatal NEC-in-a-Dish system (Yu et al. 2023; Wang et al. 2022; Chen et al. 2024; Zhang et al. 2025; Wang et al. 2026; Sami et al. 2026).
+Null and discordant findings were retained because they constrain interpretation. In the human milk extracellular-vesicle study by Waiters et al., direct TEER comparisons between HMEV-treated and untreated cultures under the same barrier-disrupting challenge were not statistically significant, even though within-group changes suggested altered barrier responses. In Sami et al., urolithin A improved FITC-dextran permeability without statistically significant rescue of all junctional markers, indicating that functional recovery and marker normalization can dissociate. Heuer et al. found that adding neutrophils did not significantly increase the NEC-status score at a fixed LPS condition, and Gershner et al. reported a temporal-control issue for NADPH together with an internal text/figure discrepancy for NOXO1. These examples support endpoint-specific rather than global statements of “protection” (Waiters et al. 2026; Heuer et al. 2025; Gershner et al. 2025; Sami et al. 2026).
+Table 3. Interventions tested in NEC-relevant organoid systems. Representative examples are shown; mechanistic steps demonstrated only in animal, tissue, or conventional cell systems are not attributed to the organoid arm.
+	Intervention category
+	Representative interventions / studies
+	Organoid endpoints reported
+	Interpretive boundary
+
+	Human milk-related approaches
+	Human milk; milk exosomes/EVs; HMOs including 2′-FL (Gao 2019; Wu 2019; Wang 2019; Miyake 2020; Lu 2021; Zito 2024; Waiters 2026)
+	Inflammatory readouts, pRIPK3-related injury, mucin/lineage markers, proliferation/stemness, and barrier-related measures depending on study
+	Composition, donor age, organoid source, and assay differ markedly; favorable marker changes should not be pooled as a single treatment effect.
+
+	Growth / regenerative signaling
+	HB-EGF (Chen 2012); NRG4/ErbB4 (McElroy 2014); GLP-1/GLP-2 agonism (Biouss 2025); Wnt-related modulation (Li 2019a)
+	Survival, growth, budding, proliferation, maturation, or stem-cell-associated readouts
+	Growth and maturation markers are not equivalent to restoration of permeability or global epithelial function; some causal steps were demonstrated in complementary systems.
+
+	Targeted inhibition of injury pathways
+	Nec1s/RIPK1 inhibition (Werts 2020); NF-kB inhibition in REGgamma models (Li 2025); ferrostatin-1 (Wang 2026); TWIST1-targeted inhibition/knockdown (Venkatraman 2026)
+	Cell-death/redox readouts, inflammatory signaling, junctional phenotype, and rescue/reversibility depending on study
+	Strongest mechanistic inference requires direct target perturbation and rescue within the organoid compartment.
+
+	Anti-inflammatory / metabolic approaches
+	5-ASA (Snyder 2025); short-chain fatty acids (Yu 2023); urolithin A (Sami 2026); allicin (Zhang 2025)
+	Inflammatory responses, regulatory pathways, permeability, growth, or E-cadherin-related outcomes
+	Developmental mismatch is relevant when organoids originate from older animals; endpoint-specific benefit should not be generalized to overall NEC protection.
+
+	Microbial / probiotic interventions
+	Bacteroides fragilis (Chen 2024); Ligilactobacillus salivarius YL20 in Cronobacter-associated models (Wang 2022)
+	Host-microbe signaling, inflammatory, metabolic, or epithelial injury-related readouts
+	Microbial species, inoculum, oxygen conditions, and concurrent in vivo evidence are integral to interpretation.
+
+	Cell-, secretome-, and EV-based approaches
+	Amniotic-fluid stem-cell products (Li 2021); ST266 secretome (Sodhi 2022); MSC-derived EVs (Hwang 2025)
+	Barrier/junction-related, ER-stress, inflammatory, regenerative, or trophic readouts depending on model
+	Paracrine composition differs across products; organoid effects should be separated from protection demonstrated in vivo.
+
+
+
+3.6 Validation and transferability
+Validation was heterogeneous and frequently stronger at the level of triangulation than at the level of independent donor replication. Twenty of the 41 primary articles included a human tissue or explant arm, and 27 included an in vivo arm. These parallel systems often supported biological plausibility, but they did not automatically validate the same endpoint in organoids. In particular, molecular changes measured in animals or resected tissue were not attributed to the organoid model unless the same analyte or functional outcome was assessed directly in organoid-derived material.
+One of the most important recurring limitations was limited or insufficiently reported biological independence. Among the 20 articles with a human organoid arm, a numeric donor count was explicitly reconstructible in 12. One was only partially resolvable, one contained a discordant donor count, one had an uncertain biological unit, and five did not allow the number of independent donors to be reconstructed. Even when the total number of donors was stated, not every endpoint necessarily used all donors. Buonpane et al., for example, documented four premature-infant samples overall, but some endpoints used two samples or triplicate experiments; Snyder et al. compared three clinical source states using one donor per state in one of the key studies. Consequently, many organoids, wells, images, or technical replicates should not be mistaken for multiple independent patients (Buonpane et al. 2022; Snyder et al. 2024).
+The same issue was more pronounced in the murine literature: a numeric number of animal donors was reconstructible in only three of the 23 primary articles with a murine organoid arm, with one additional report providing partial information. Line reuse and report overlap further complicate study-level counting. The current evidence map therefore distinguishes reports, report families, donor lines, experimental contrasts, and technical replicates rather than treating each publication as an independent biological confirmation.
+No prospective study was identified in which an organoid phenotype predicted patient-level NEC outcomes or individual therapeutic response. Accordingly, concordance with patient tissue or animal models should be interpreted as cross-system triangulation rather than clinical validation. The current literature supports biological plausibility and mechanistic interrogation; prospective predictive validity remains an unmet translational step.
+
+Figure 6. Proposed validation ladder for NEC organoid studies. Higher levels require, rather than replace, the lower-level evidence. Prospective patient-level prediction was not identified in the current corpus.
+4. Discussion
+4.1 Biological source is part of the model definition
+The principal finding of this scoping review is that “NEC organoid” should not be treated as a single experimental category. The biological source of the epithelium fundamentally shapes what the resulting model can represent and how its findings should be interpreted before any experimental exposure is applied. Active-NEC-derived organoids can capture disease-associated epithelial features present in donor-derived cultures; post-NEC organoids can be used to investigate whether altered epithelial responsiveness remains detectable after recovery; non-NEC neonatal organoids can isolate the consequences of a defined insult; and murine genetic systems can interrogate pathway dependence with experimental precision. These model classes are complementary, not interchangeable.
+This distinction is particularly important when interpreting “controls.” Tissue sampled from a macroscopically uninjured region of an infant with NEC remains NEC-derived tissue and may retain systemic or donor-specific features. Similarly, intestinal atresia or other surgical indications provide non-NEC comparators but are not equivalent to histologically normal intestine from otherwise healthy preterm infants. A model based on post-NEC tissue introduces time since injury, intestinal adaptation, nutritional exposure, and developmental age as additional variables. The source history should therefore be considered an experimental factor rather than a descriptive footnote.
+4.2 Phenotypic fidelity, functional evidence, and mechanistic inference are distinct levels of evidence
+A second major finding is that the literature often combines three different claims: that an organoid resembles NEC, that an intervention changes a NEC-associated marker, and that a particular pathway causes the phenotype. These are not equivalent. Morphology, inflammatory transcripts, tight-junction proteins, and cell-death markers can establish phenotypic resemblance, but functional assays such as permeability or TEER provide a different level of evidence. Only seven primary articles directly measured barrier function, and functional recovery did not always track with junctional-marker normalization. Likewise, pathway enrichment or gene-expression change can generate a mechanistic hypothesis, whereas pathway-specific knockout, inhibition, or rescue provides stronger causal support.
+The mechanistic studies in the corpus demonstrate the value of organoids when this hierarchy is respected. TLR4-PUMA, AHR-dependent protection, SIGIRR-TWIST1 signaling, and selected cell-death pathways included direct genetic or targeted perturbation within organoid systems, whereas the broader TLR4-ER-stress causal chain was completed using complementary cellular and in vivo experiments in addition to enteroid phenotyping. In contrast, other studies used organoids primarily as a phenotypic component within a broader multi-model program. Both designs are valuable, but their conclusions should be worded differently: “associated with,” “modified by,” and “required for” should not be used interchangeably.
+4.3 Limited biological replication is a major barrier to generalizability
+A major barrier to generalizability was the limited or incompletely reported number of independent biological sources relative to the number of technical observations. Human organoid papers frequently reported numerous wells, organoids, images, or replicate assays while the number of patients contributing independent lines was small, incompletely described, or endpoint-specific. This is especially relevant for disease-history models, where a striking difference between NEC, recovered NEC, and non-NEC groups may reflect both disease state and donor identity if each state is represented by only one or a few individuals. The same principle applies to murine work, in which litter and donor-animal information was often less explicit than assay replication.
+For future studies, the minimum biological unit should be stated for every major endpoint. At a minimum, authors should distinguish patient or animal donor, organoid line, passage, well, individual organoid, image, and technical replicate. Multi-donor confirmation is particularly important before a donor-specific phenotype is interpreted as a disease-state property. Failure to distinguish technical replication from donor-level biological replication can create pseudoreplication and overly narrow estimates of experimental variability. These reporting practices are likely to improve both reproducibility and the feasibility of later quantitative synthesis.
+4.4 A source-explicit framework for translational interpretation
+Taken together, the literature supports a translational framework in which the value of a model is judged by fitness for a specific question rather than by a universal hierarchy. Human active-NEC and post-NEC models are most informative for donor-associated epithelial states; induced-injury models are useful for controlled challenge and intervention testing; murine genetic organoids are especially strong for pathway interrogation; and chip or coculture systems add cell-cell, flow, and interface complexity. Biological confidence is strengthened when complementary systems converge on the same mechanism while retaining explicit compartment boundaries.
+The evidence does not yet support prospective patient-level prediction. We therefore propose, as a conceptual framework derived from the evidence gaps mapped in this review rather than as a validated quality score, a translational trajectory moving from phenotypic fidelity to functional confirmation, mechanistic perturbation and rescue, independent donor replication, cross-system triangulation, and finally prospective prediction of clinical behavior or treatment response. Figure 6 summarizes this proposed conceptual ladder. This trajectory also clarifies why the presence of human tissue in a study does not by itself validate an organoid model, and why many technical replicates do not compensate for a single donor.
+4.5 Proposed minimum reporting set
+The recurring evidence gaps suggest a practical minimum reporting set for NEC organoid studies. This proposal is derived from the deficiencies repeatedly encountered during data charting and is intended as a starting point for future consensus rather than a formal reporting guideline.
+Table 4. Proposed minimum reporting set for NEC organoid studies. This is a review-derived proposal for future consensus, not a validated reporting guideline.
+	Domain
+	Minimum information to report
+
+	Biological source
+	Species; gestational age at birth; postnatal/corrected age at sampling; clinical NEC status; active vs post-NEC state; surgical indication; intestinal segment; lesional vs distant/uninvolved tissue; genotype/strain.
+
+	Culture platform
+	3D/2D/chip/coculture; basal-out vs apical-out polarity; matrix and medium; passage number; whether 2D was organoid-derived or directly established from primary crypts.
+
+	NEC construct
+	LPS/bacteria/microbiota source; hypoxia/oxygen level; dose; duration; order of exposures; temperature or nutritional stress; whether challenge was applied to NEC-derived or non-NEC donor material.
+
+	Readouts
+	Exact analyte/phenotype; RNA vs protein vs localization; morphology vs functional assay; time point; organoid compartment measured; distinction from parallel animal/tissue/cell-line assays.
+
+	Biological replication
+	Independent patients/animals/litters/lines for each major endpoint; number of wells and technical replicates reported separately.
+
+	Validation
+	Paired or external controls; orthogonal assay; targeted genetic/pharmacologic perturbation; rescue/reversibility; comparison with human tissue and/or in vivo model; prespecified handling of reused lines.
+
+
+
+4.6 Strengths and limitations of the review
+This review used experiment-level rather than article-level abstraction, preserving the distinction between organoid, tissue, animal, and conventional cell-line results. It also separated donor provenance, experimental injury, assay compartment, and biological independence, and explicitly tracked overlapping reports and reused lines. This structure reduces a common risk in multi-model NEC papers: attributing a mechanistic result demonstrated in an animal or tissue compartment to the organoid experiment.
+The present manuscript is nevertheless a working draft. One CORE full text (NEC-090) has not yet been retrieved, final dual-reviewer eligibility adjudication is pending, key source and mechanistic variables still require the prespecified independent extraction or second-reviewer verification against the exact full-text figures/tables/supplements, and the PubMed export is still being reconciled with the unified register. Six abstract/preprint documents are retained as complementary evidence rather than merged into the main article denominator, and several report families share lines, panels, or potentially overlapping donor material. The extreme heterogeneity of source, challenge, endpoint, dose, timing, and unit of replication currently precludes a defensible pooled meta-analysis across the full corpus. These limitations should be updated before final PRISMA-ScR reporting.
+5. Conclusions
+Intestinal organoids constitute an informative platform for reconstructing epithelial components of NEC injury, testing selected molecular mechanisms, and evaluating responses to defined perturbations. Their principal strength is also the source of their interpretive complexity: organoids can preserve detectable donor-, developmental-, anatomical-, and disease-history-associated epithelial features while remaining experimentally manipulable. The evidence mapped here indicates that the meaning and strength of a NEC organoid result depend on linked factors that should be reported together: biological origin, the experimental construct, the endpoint actually measured in the organoid arm, and replication across independent biological sources.
+A source-explicit interpretation helps explain several apparent inconsistencies in the literature. Active-NEC, post-NEC, non-NEC injury models, genetically defined murine organoids, 2D monolayers, cocultures, and chips answer different questions and should be used as complementary components of a mechanistic and translational pipeline rather than pooled as a single disease model. The next stage of the field should prioritize transparent donor reporting, functional readouts, pathway-specific perturbation and rescue, independent replication, and prospective testing of whether organoid phenotypes predict clinically relevant behavior.
+References
+Afrazi A, et al. Toll-like receptor 4-mediated endoplasmic reticulum stress in intestinal crypts induces necrotizing enterocolitis. J Biol Chem. 2014;289(14):9584-9599. doi:10.1074/jbc.M113.526517.
+Biouss G, et al. Glucagon-like peptides agonists promote maturation of intestinal organoids derived from neonates with necrotizing enterocolitis. Pediatr Surg Int. 2025;41(1):69. doi:10.1007/s00383-024-05957-w.
+Buonpane C, Ares G, Yuan C, Schlegel C, Liebe H, Hunter CJ. Experimental modeling of necrotizing enterocolitis in human infant intestinal enteroids. J Invest Surg. 2022;35(1):111-118. doi:10.1080/08941939.2020.1829755.
+Chen CL, et al. Heparin-binding EGF-like growth factor protects intestinal stem cells from injury in a rat model of necrotizing enterocolitis. Lab Invest. 2012;92(3):331-344. doi:10.1038/labinvest.2011.167.
+Chen F, et al. Integrated multi-omics analysis reveals dendritic cell centered regulatory networks and therapeutic targets in necrotizing enterocolitis. Front Immunol. 2026;17:1900420. doi:10.3389/fimmu.2026.1900420.
+Chen Z, et al. Bacteroides fragilis alleviates necrotizing enterocolitis through restoring bile acid metabolism balance using bile salt hydrolase and inhibiting FXR-NLRP3 signaling pathway. Gut Microbes. 2024;16(1):2379566. doi:10.1080/19490976.2024.2379566.
+Gao R, et al. A comparison of exosomes derived from different periods breast milk on protecting against intestinal organoid injury. Pediatr Surg Int. 2019;35(12):1363-1368. doi:10.1007/s00383-019-04562-6.
+Gershner GH, et al. The role of GPX enzymes, lipid profiles, and iron accumulation in necrotizing enterocolitis. Int J Mol Sci. 2025;26(13):6077. doi:10.3390/ijms26136077.
+Golubkova A, et al. Response of the glutathione (GSH) antioxidant defense system to oxidative injury in necrotizing enterocolitis. Antioxidants (Basel). 2023;12(7):1385. doi:10.3390/antiox12071385.
+Heuer KM, et al. Neutrophils aggravate inflammatory lesions in intestinal organoids from necrotizing enterocolitis. Front Immunol. 2025;16:1582526. doi:10.3389/fimmu.2025.1582526.
+Hwang S, et al. Thrombin-preconditioned mesenchymal stromal cell-derived extracellular vesicles attenuate experimental necrotizing enterocolitis. Stem Cell Res Ther. 2025;16(1):101. doi:10.1186/s13287-025-04243-3.
+Lanik WE, et al. Microfluidic device facilitates in vitro modeling of human neonatal necrotizing enterocolitis-on-a-chip. JCI Insight. 2023;8(8):e146496. doi:10.1172/jci.insight.146496.
+Li B, et al. Impaired Wnt/beta-catenin pathway leads to dysfunction of intestinal regeneration during necrotizing enterocolitis. Cell Death Dis. 2019;10(10):743. doi:10.1038/s41419-019-1987-1.
+Li B, et al. Neonatal intestinal organoids as an ex vivo approach to study early intestinal epithelial disorders. Pediatr Surg Int. 2019;35(1):3-7. doi:10.1007/s00383-018-4369-3.
+Li B, et al. Intestinal epithelial tight junctions and permeability can be rescued through the regulation of endoplasmic reticulum stress by amniotic fluid stem cells during necrotizing enterocolitis. FASEB J. 2021;35(1):e21265. doi:10.1096/fj.202001426R.
+Li Y, et al. REGgamma-mediated barrier disruption and NF-kB activation aggravates intestinal inflammation in necrotizing enterocolitis. Inflammation. 2025;48(4):2476-2493. doi:10.1007/s10753-024-02203-2.
+Liebe H, et al. Apical-out enteroids as an innovative model for necrotizing enterocolitis. J Surg Res. 2023;283:1106-1116. doi:10.1016/j.jss.2022.11.048.
+Lu P, et al. Maternal aryl hydrocarbon receptor activation protects newborns against necrotizing enterocolitis. Nat Commun. 2021;12:1042. doi:10.1038/s41467-021-21356-4.
+McElroy SJ, et al. The ErbB4 ligand neuregulin-4 protects against experimental necrotizing enterocolitis. Am J Pathol. 2014;184(10):2768-2778. doi:10.1016/j.ajpath.2014.06.015.
+Miyake H, et al. Human breast milk exosomes attenuate intestinal damage. Pediatr Surg Int. 2020;36(2):155-163. doi:10.1007/s00383-019-04599-7.
+Neal MD, et al. Toll-like receptor 4 is expressed on intestinal stem cells and regulates their proliferation and apoptosis via the p53 up-regulated modulator of apoptosis. J Biol Chem. 2012;287(44):37296-37308. doi:10.1074/jbc.M112.375881.
+Peters MDJ, et al. Updated methodological guidance for the conduct of scoping reviews. JBI Evid Synth. 2020;18(10):2119-2126. doi:10.11124/JBIES-20-00167.
+Pollock D, et al. Recommendations for the extraction, analysis, and presentation of results in scoping reviews. JBI Evid Synth. 2023;21(3):520-532. doi:10.11124/JBIES-22-00123.
+Rethlefsen ML, et al. PRISMA-S: an extension to the PRISMA statement for reporting literature searches in systematic reviews. Syst Rev. 2021;10(1):39. doi:10.1186/s13643-020-01542-z.
+Sami AS, et al. Urolithin A attenuates inflammation and enhances barrier integrity in an experimental NEC-in-a-Dish model. Pediatr Res. 2026. doi:10.1038/s41390-026-05124-y.
+Snyder KB, et al. Persistent proclivity to a proinflammatory state in a human enteroid model of necrotizing enterocolitis. Surg Infect (Larchmt). 2023;24(7):606-612. doi:10.1089/sur.2023.123.
+Snyder KB, et al. Despite recovery from necrotizing enterocolitis infants retain a hyperinflammatory response to injury. J Inflamm Res. 2024;17:331-341. doi:10.2147/JIR.S436125.
+Snyder KB, et al. Persistent post-recovery hyperinflammation of necrotizing enterocolitis is ameliorated by 5-ASA treatment. Surg Infect (Larchmt). 2025;26(7):530-537. doi:10.1089/sur.2024.173.
+Sodhi CP, et al. Intestinal epithelial Toll-like receptor 4 regulates goblet cell development and is required for necrotizing enterocolitis in mice. Gastroenterology. 2012;143(3):708-718.e5. doi:10.1053/j.gastro.2012.05.053.
+Sodhi CP, et al. The administration of amnion-derived multipotent cell secretome ST266 protects against necrotizing enterocolitis in mice and piglets. Am J Physiol Gastrointest Liver Physiol. 2022;323(3):G265-G282. doi:10.1152/ajpgi.00364.2021.
+Sun X, et al. CSF1 is expressed by the intestinal epithelial cells to regulate macrophages and maintain epithelial homeostasis and is downregulated in neonates with necrotizing enterocolitis. BMC Pediatr. 2024;24:608. doi:10.1186/s12887-024-05047-9.
+Swift KA, et al. The RNA-binding protein Imp1 promotes a Spdef transcriptional program and mucus fucosylation during necrotizing enterocolitis. Am J Physiol Gastrointest Liver Physiol. 2026;331(2):G107-G124. doi:10.1152/ajpgi.00060.2026.
+Tricco AC, et al. PRISMA extension for scoping reviews (PRISMA-ScR): checklist and explanation. Ann Intern Med. 2018;169(7):467-473. doi:10.7326/M18-0850.
+Venkatraman A, et al. Single immunoglobulin interleukin1-related receptor-TWIST1 axis regulates barrier function in neonatal intestine. Cell Mol Gastroenterol Hepatol. 2026;20(9):101823. doi:10.1016/j.jcmgh.2026.101823.
+Waiters KD, et al. Human milk small extracellular vesicles elicit changes in inflammatory response in infant human intestinal enteroids. Sci Rep. 2026;16:29400. doi:10.1038/s41598-026-59527-2.
+Wang C, et al. Human milk oligosaccharides protect against necrotizing enterocolitis by inhibiting intestinal damage via increasing the proliferation of crypt cells. Mol Nutr Food Res. 2019;63(18):e1900262. doi:10.1002/mnfr.201900262.
+Wang CY, et al. Ferrostatin-1 protects against necrotizing enterocolitis intestinal injury by inhibiting ferroptosis. Pediatr Surg Int. 2026;42(1):26. doi:10.1007/s00383-025-06240-2.
+Wang W, et al. Protective effects and mechanism of a novel probiotic strain Ligilactobacillus salivarius YL20 against Cronobacter sakazakii-induced necrotizing enterocolitis in vitro and in vivo. Nutrients. 2022;14(18):3827. doi:10.3390/nu14183827.
+Werts AD, et al. A novel role for necroptosis in the pathogenesis of necrotizing enterocolitis. Cell Mol Gastroenterol Hepatol. 2020;9(3):403-423. doi:10.1016/j.jcmgh.2019.11.002.
+Wu RY, et al. Human milk oligosaccharides increase mucin expression in experimental necrotizing enterocolitis. Mol Nutr Food Res. 2019;63(3):e1800658. doi:10.1002/mnfr.201800658.
+Xiong Y, et al. Molecular and chromatin accessibility programs underlying epithelial injury and impaired regeneration in neonatal necrotizing enterocolitis. Cell Mol Gastroenterol Hepatol. 2026;20(6):101730. doi:10.1016/j.jcmgh.2026.101730.
+Xu L, et al. Parthanatos initiated by ROS-induced DNA damage is involved in intestinal epithelial injury during necrotizing enterocolitis. Cell Death Discov. 2024;10:345. doi:10.1038/s41420-024-02114-z.
+Yu W, et al. Short-chain fatty acids ameliorate necrotizing enterocolitis-like intestinal injury through enhancing Notch1-mediated SIGIRR, TOLLIP, and A20 induction. Am J Physiol Gastrointest Liver Physiol. 2023;324(1):G24-G37. doi:10.1152/ajpgi.00057.2022.
+Zhang F, et al. Allicin attenuates necrotizing enterocolitis via PINK1/Parkin-mediated mitophagy to suppress pyroptosis. Int Immunopharmacol. 2025;167:115749. doi:10.1016/j.intimp.2025.115749.
+Zito A, et al. Human milk oligosaccharides promote intestinal epithelium regeneration independent of the microbiota during necrotizing enterocolitis. Pediatr Surg Int. 2024;40(1):35. doi:10.1007/s00383-023-05598-5.
+
+
+Appendix A. Primary-synthesis articles (current working set)
+The 41 full articles below constitute the current primary synthesis. NEC identifiers correspond to the project extraction matrix and are retained here for traceability during drafting.
+	NEC ID
+	Study
+	Organoid species
+	Primary organoid contribution
+
+	NEC-004
+	Gao et al. 2019
+	Mouse
+	Milk exosomes; inflammatory/growth response
+
+	NEC-007
+	Werts et al. 2020
+	Mouse
+	Necroptosis; milk/2-FL/Nec1s
+
+	NEC-010
+	Zhang et al. 2025
+	Mouse
+	Allicin; mitophagy/pyroptosis context
+
+	NEC-012
+	Liebe et al. 2023
+	Human
+	Apical-out NEC model; barrier/inflammation
+
+	NEC-016
+	Chen et al. 2024
+	Human
+	B. fragilis; bile acid/FXR-NLRP3 context
+
+	NEC-024
+	Sun et al. 2024
+	Human
+	CSF1 epithelial-macrophage coculture
+
+	NEC-028
+	Snyder et al. 2024
+	Human
+	Active/post-NEC/non-NEC inflammatory response
+
+	NEC-045
+	Buonpane et al. 2022
+	Human
+	Premature enteroid LPS model; permeability
+
+	NEC-048
+	Wang et al. 2026
+	Human
+	Fer-1; iron/ROS/lipid peroxidation
+
+	NEC-053
+	Biouss et al. 2025
+	Human
+	GLP agonists; growth/maturation
+
+	NEC-055
+	Chen et al. 2012
+	Rodent
+	HB-EGF; intestinal stem-cell protection
+
+	NEC-057
+	Miyake et al. 2020
+	Mouse
+	Human milk exosomes; inflammatory injury
+
+	NEC-066
+	Wu et al. 2019
+	Human
+	HMOs; mucin/TFF3-related phenotype
+
+	NEC-067
+	Zito et al. 2024
+	Mouse
+	HMOs; epithelial regeneration
+
+	NEC-068
+	Wang et al. 2019
+	Mouse
+	HMOs; crypt-cell proliferation/TLR4
+
+	NEC-070
+	Waiters et al. 2026
+	Human
+	Milk EVs; inflammation and TEER
+
+	NEC-079
+	Li et al. 2019a
+	Human + mouse
+	Wnt/beta-catenin; regeneration
+
+	NEC-084
+	Chen et al. 2026
+	Mouse
+	Multi-omics therapeutic-target program
+
+	NEC-087
+	Li et al. 2021
+	Mouse
+	AFSC; ER stress, tight junctions, permeability
+
+	NEC-088
+	Sodhi et al. 2012
+	Mouse
+	TLR4; goblet-cell development
+
+	NEC-097
+	Lu et al. 2021
+	Mouse
+	AHR-dependent protection; breast milk/I3C
+
+	NEC-102
+	Lanik et al. 2023
+	Human
+	Neonatal intestine-on-chip
+
+	NEC-109
+	Xiong et al. 2026
+	Mouse
+	Chromatin programs; epithelial injury/regeneration
+
+	NEC-123
+	Li et al. 2019b
+	Human
+	Neonatal organoid platform/early epithelial disorders
+
+	NEC-124
+	Heuer et al. 2025
+	Human
+	Neutrophil-organoid coculture
+
+	NEC-132
+	Xu et al. 2024
+	Human
+	Parthanatos/ROS DNA damage
+
+	NEC-133
+	Snyder et al. 2025
+	Human
+	5-ASA; persistent hyperinflammation
+
+	NEC-134
+	Snyder et al. 2023
+	Human
+	Proinflammatory predisposition in NEC enteroids
+
+	NEC-139
+	Wang et al. 2022
+	Mouse
+	L. salivarius/Cronobacter model
+
+	NEC-143
+	Li et al. 2025
+	Mouse
+	REGgamma/NF-kB; apoptosis/inflammation
+
+	NEC-146
+	Golubkova et al. 2023
+	Human
+	Glutathione/redox injury
+
+	NEC-155
+	Yu et al. 2023
+	Mouse
+	SCFAs; Notch1/SIGIRR/TOLLIP/A20
+
+	NEC-156
+	Venkatraman et al. 2026
+	Human + mouse
+	SIGIRR-TWIST1; barrier
+
+	NEC-163
+	Sodhi et al. 2022
+	Mouse
+	ST266 secretome; protection
+
+	NEC-166
+	McElroy et al. 2014
+	Mouse
+	Neuregulin-4/ErbB4; epithelial protection
+
+	NEC-176
+	Swift et al. 2026
+	Human
+	IMP1/SPDEF; mucus fucosylation
+
+	NEC-179
+	Gershner et al. 2025
+	Human
+	GPX/redox/lipid/iron profile
+
+	NEC-181
+	Hwang et al. 2025
+	Mouse
+	MSC-EVs; experimental NEC
+
+	NEC-186
+	Neal et al. 2012
+	Mouse
+	TLR4-PUMA; stem-cell apoptosis/proliferation
+
+	NEC-187
+	Afrazi et al. 2014
+	Mouse
+	TLR4-ER stress; crypt apoptosis
+
+	NEC-189
+	Sami et al. 2026
+	Human
+	Urolithin A; inflammation and barrier
+
+
+
